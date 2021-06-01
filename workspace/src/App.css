@@ -1,0 +1,84 @@
+.typo{
+  display: flex;
+  position: relative;
+  overflow: hidden;
+ left:10px;
+}
+
+.trail{
+  margin-left: 50%;
+  color:white
+}
+.Footbox{
+margin-right:  40px;
+position: relative;
+top:20px;
+}
+.Footboxer{
+  width: 100px;
+}
+.Icon{
+  position: absolute;
+  left: 70px;
+}
+.Link{
+  text-decoration: none;
+}
+.butt{
+  display: flex;
+  width: 100%;
+  border-top: 5px solid rgb(156, 154, 154);
+
+}
+.Box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    padding: 14px;
+  border-bottom: 0.1px solid rgb(156, 154, 154);
+}
+.side{
+  border-right: 2px solid rgb(156, 154, 154);
+  position:absolute;
+display: flex;
+flex-direction: column;
+width: 20%;
+height: 90%;
+background-color: rgb(40, 40, 40);
+
+}
+.but{
+  display: flex;
+    position:absolute;
+    left:60%;
+}
+.but2{
+    position:absolute;
+    left:50%;
+}  
+.Foot{
+  display: flex;
+  position: absolute;
+  width: 100%;
+  height:14%;
+  background-color: rgb(40, 40, 40);
+  bottom:0%;
+justify-content: center;
+border-top: 0.1px solid rgb(156, 154, 154);
+}
+.App{
+width: 100%;
+background-color: rgb(40, 40, 40);
+}
+.contain{
+  top:40px;
+}
+.Main{
+display: flex;
+flex-direction: column;
+position:absolute;
+  background-color: rgb(76, 71, 69);
+left: 20%;
+  width:80%;
+  height:80%;
+}
